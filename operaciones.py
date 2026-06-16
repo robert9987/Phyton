@@ -6,3 +6,5 @@ def sacar_promedio(numeros):
 
 def encontrar_mayor(numeros):
     return max(numeros)
+
+# Archivo actualizado con Git
