@@ -18,3 +18,5 @@ print("El promedio es", promedio)
 print("El numero mayor es", mayor)
 
 input("Presiona Enter para salir...")
+
+# Ejercicio de hoja de números
